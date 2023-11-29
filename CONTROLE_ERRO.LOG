@@ -1,4 +1,4 @@
-LOG|INICIO|15/11/2023|10:19:17||||||
-VT_ERROS|75|Path/File access error|ControleOperacional|frmCarregaDados|PreparaObjetos
-LOG|FINAL|15/11/2023|10:19:17||||||
+LOG|INICIO|28/11/2023|14:53:31||||||
+VT_ERROS|-2147286781|Não é possível salvar.|Provider|frmCarregaDados|PreparaObjetos
+LOG|FINAL|28/11/2023|14:53:31||||||
 
